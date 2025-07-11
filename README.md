@@ -142,9 +142,3 @@ markd/
 - [React Documentation](https://reactjs.org/docs)
 - [Tailwind CSS](https://tailwindcss.com)
 - [MongoDB Documentation](https://docs.mongodb.com)
-
----
-
-<div align="center">
-Made with ❤️ by <a href="https://linkedin.com/in/harshpreet931">Harshpreet Singh</a>
-</div>
